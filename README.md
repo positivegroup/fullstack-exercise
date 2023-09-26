@@ -9,7 +9,7 @@ We all love working with talented co-workers. This challenge is intended to help
 
 ### Background
 
-In order to assess your ability to develop full stack applications from a small number of requirements, we ask that you develop a small Twitter clone, 'Postr' in Laravel, InertiaJS and a frontend framework of your choice (we use VueJS)
+In order to assess your ability to develop full stack applications from a small number of requirements, we ask that you develop a small Twitter clone, 'Postr' using Laravel as the API with a frontend written in React or Vue.
 
 ### Requirements
 
